@@ -1,0 +1,6 @@
+S: Организмы, на которых Жакоб Ф. и Моно Ж. открыли механизм индукции-репрессии:
+-: Fusobacterium necroforum
+-: Bac. alvei
++: Escherichia coli
+-: Clostridium septicum
+V2: {{28}} 07.28. Возрастные изменения признаков
