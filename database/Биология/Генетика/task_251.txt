@@ -1,0 +1,5 @@
+S: Впервые рестриктазы были выявлены в клетках:
+-: Streptococcus pluton
+-: Bac. Larvae
+-: Apis mellifera
++: E. coli
