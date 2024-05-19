@@ -1,0 +1,5 @@
+S: Хромосомная теория Т.Моргана была разработана на … .
+-: Apis mellifera
++: Drosophila melanogaster
+-: Homo sapiens
+-: Escherichia coli
